@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\ratho\Desktop\Internship Work\Customer-Relationship\.metadata\.plugins\org.eclipse.jdt.core
+381858342.index
+1067094681.index
+708391227.index
+1865797976.index
